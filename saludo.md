@@ -5,6 +5,7 @@
 Este documento explica cómo clonar el repositorio del compañero, configurar el usuario local, verificar los remotos existentes, crear un repositorio personal en GitHub, agregarlo como remoto, eliminar el remoto original y confirmar el resultado final.
 
 ---
+
 ### 1️ Clonar el repositorio del compañero
 ```bash
 git clone URL_repositorio_del_compañero
